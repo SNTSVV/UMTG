@@ -6,9 +6,9 @@ In safety critical domains, software engineers must ensure traceability between 
 
 UMTG is a toolset for automatically generating executable and traceable system test cases from use case specifications and domain model. In order to extract behavioral information from use case specifications and enable test automation, UMTG employs Natural Language Processing (NLP), a restricted form of use case specifications, and constraint solving.
 
-UMTG is integrated with two tools, IBM Doors and IBM Rational Rhapsody that are widely adopted in industry to manage requirements and design systems. UMTG has been successfully evaluated on an industrial case study.
+UMTG is integrated with two tools, IBM Doors and IBM Rational Rhapsody that are widely adopted in industry to manage requirements and design systems. UMTG has been successfully evaluated on two industrial case studies. UMTG integrates a component for the automated generation of OCL constraints from sentences in natural language, OCLGen, which is available from teh fllowing [link](https://sntsvv.github.io/OCLGen/).
 
-UMTG has been depevoled in a project in collaboration with IEE.
+UMTG has been depevoled in a project in collaboration with [IEE](http://www.iee.lu).
 
 {% include youtube.html id=uLIio468jWE %}
 
