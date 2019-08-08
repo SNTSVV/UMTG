@@ -52,13 +52,13 @@ The use case specifications provided by our industry partner cannot be released 
 
 # 3. Publications
 
-Chunhui Wang, Fabrizio Pastore, Arda Goknil, Lionel Briand. Automatic Generation of System Test Cases from Use Case Specifications: an NLP-based Approach. 2019. Submitted. https://arxiv.org/abs/1907.08490
+Chunhui Wang, Fabrizio Pastore, Arda Goknil, Lionel Briand. Automatic Generation of System Test Cases from Use Case Specifications: an NLP-based Approach. 2019. Submitted. [download](https://arxiv.org/abs/1907.08490)
 
-C. Wang, F. Pastore and L. Briand, "Automated Generation of Constraints from Use Case Specifications to Support System Testing," 2018 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST), Vasteras, 2018, pp. 23-33.  doi: 10.1109/ICST.2018.00013 [link](http://orbilu.uni.lu/handle/10993/33914)
+C. Wang, F. Pastore and L. Briand, "Automated Generation of Constraints from Use Case Specifications to Support System Testing," 2018 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST), Vasteras, 2018, pp. 23-33.  doi: 10.1109/ICST.2018.00013 [download](http://orbilu.uni.lu/handle/10993/33914)
 
-Chunhui Wang, Fabrizio Pastore, Arda Goknil, Lionel C. Briand, and Zohaib Iqbal. 2015. UMTG: a toolset to automatically generate system test cases from use case specifications. In Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering (ESEC/FSE 2015). ACM, New York, NY, USA, 942-945. DOI: https://doi.org/10.1145/2786805.2803187 [link](http://orbilu.uni.lu/handle/10993/21772)
+Chunhui Wang, Fabrizio Pastore, Arda Goknil, Lionel C. Briand, and Zohaib Iqbal. 2015. UMTG: a toolset to automatically generate system test cases from use case specifications. In Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering (ESEC/FSE 2015). ACM, New York, NY, USA, 942-945. DOI: https://doi.org/10.1145/2786805.2803187 [download](http://orbilu.uni.lu/handle/10993/21772)
 
-Chunhui Wang, Fabrizio Pastore, Arda Goknil, Lionel Briand, and Zohaib Iqbal. 2015. Automatic generation of system test cases from use case specifications. In Proceedings of the 2015 International Symposium on Software Testing and Analysis (ISSTA 2015). ACM, New York, NY, USA, 385-396. DOI: http://dx.doi.org/10.1145/2771783.2771812 [link](http://orbilu.uni.lu/handle/10993/21147)
+Chunhui Wang, Fabrizio Pastore, Arda Goknil, Lionel Briand, and Zohaib Iqbal. 2015. Automatic generation of system test cases from use case specifications. In Proceedings of the 2015 International Symposium on Software Testing and Analysis (ISSTA 2015). ACM, New York, NY, USA, 385-396. DOI: http://dx.doi.org/10.1145/2771783.2771812 [download](http://orbilu.uni.lu/handle/10993/21147)
 
 
 
