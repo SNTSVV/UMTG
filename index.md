@@ -8,13 +8,17 @@ UMTG is integrated with two tools, IBM Doors and IBM Rational Rhapsody that are 
 
 UMTG has been depevoled in a project in collaboration with [IEE](http://www.iee.lu).
 
-{% include youtube.html id=uLIio468jWE %}
-
 {% include youtubeOCLGen.html id=uLIio468jWE %}
 
-## System Requirements
+{% include youtube.html id=uLIio468jWE %}
 
-UMTG has been tested on Windows 7 with:
+## Download & Installation
+
+### Eclipse plug-in
+
+#### System Requirements
+
+The UMTG Eclipse plug-in has been tested on Windows 7 with:
 
 1. Java Development Kit (JDK) 1.7.0 and above
 2. Telelogic DOORS 8.3 
@@ -23,14 +27,16 @@ UMTG has been tested on Windows 7 with:
 
 A version of UTMG that does not require Telelogic DOORS will be released soon.
 
-## Download & Installation
-
-### Eclipse plug-in
+#### Installation
 
 1. Download the Installation Package from the following link : [UMTG Distribution.zip](https://sntsvv.github.io/UMTG/data/UMTG_Distribution.zip).
 2. To install UMTG, please follow the UMTG User Manual : [UMTG_Manual.pdf](https://sntsvv.github.io/UMTG/data/UMTG_Manual.pdf).
 
-### Replicability package and console toolset
+### Replicability package and command line toolset
+
+#### System Requirements
+
+The UMTG command line toolset works with Unix-like systems with Bash shell.
 
 #### Genration of OCL constraints (OCLgen)
 
