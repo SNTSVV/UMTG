@@ -1,4 +1,6 @@
-## Overview 
+<img src="UMTG.png" alt="hi" class="inline"/>
+
+# 1. Overview 
 
 In safety critical domains, software engineers must ensure traceability between requirements and system test cases to comply with safety standards, e.g. ISO-26262. Requirements management tools like IBM Doors are commonly adopted in industry, but these tools provide support for only the maintenance of traceability links. Software engineers thus have both to manually derive system test cases from functional requirements written in natural language and establish traceability links between requirements and their corresponding test cases. 
 
@@ -12,11 +14,11 @@ UMTG has been depevoled in a project in collaboration with [IEE](http://www.iee.
 
 {% include youtube.html id=uLIio468jWE %}
 
-## Download & Installation
+# 2. Download & Installation
 
-### Eclipse plug-in
+## 2.1 Eclipse plug-in
 
-#### System Requirements
+### 2.1.a System Requirements
 
 The UMTG Eclipse plug-in has been tested on Windows 7 with:
 
@@ -27,28 +29,28 @@ The UMTG Eclipse plug-in has been tested on Windows 7 with:
 
 A version of UTMG that does not require Telelogic DOORS will be released soon.
 
-#### Installation
+### 2.1.b Installation
 
 1. Download the Installation Package from the following link : [UMTG Distribution.zip](https://sntsvv.github.io/UMTG/data/UMTG_Distribution.zip).
 2. To install UMTG, please follow the UMTG User Manual : [UMTG_Manual.pdf](https://sntsvv.github.io/UMTG/data/UMTG_Manual.pdf).
 
-### Replicability package and command line toolset
+## 2.2 Replicability package and command line toolset
 
-#### System Requirements
+### 2.2.a System Requirements
 
 The UMTG command line toolset works with Unix-like systems with Bash shell.
 
-#### Genration of OCL constraints (OCLgen)
+### 2.2.b Generation of OCL constraints (OCLgen)
 
 A reusable replicability package for the OCL generation technique is available from the following URL https://drive.google.com/open?id=1Jbg_DdschJpYDmiPkQiloBBgBdWfMNW_
 
 The package includes also the sources of OCLgen and all its dependencies.
 
-#### Use Case Test Models and Test Cases Generation
+### 2.2.c Use Case Test Models and Test Cases Generation
 
 The use case specifications provided by our industry partner cannot be released because covered by NDA. We are working on a solution to provide a sanitized version of the generated test models.
 
-## Publications
+# 3. Publications
 
 Chunhui Wang, Fabrizio Pastore, Arda Goknil, Lionel Briand. Automatic Generation of System Test Cases from Use Case Specifications: an NLP-based Approach. 2019. Submitted. https://arxiv.org/abs/1907.08490
 
