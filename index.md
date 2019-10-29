@@ -25,7 +25,7 @@ The UMTG Eclipse plug-in has been tested on Windows 7 with:
 1. Java Development Kit (JDK) 1.7.0 and above
 2. Telelogic DOORS 8.3 
 3. IBM Rational Rhapsody 8.0.3
-4. GATE Framework 7.1 release [Download]
+4. GATE Framework version 7.1 [Download](http://gate.ac.uk/download/)
 
 A version of UTMG that does not require Telelogic DOORS will be released soon.
 
